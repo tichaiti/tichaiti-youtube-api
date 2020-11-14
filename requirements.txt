@@ -1,0 +1,4 @@
+flask-restx
+flask_cors
+requests
+google-api-python-client
